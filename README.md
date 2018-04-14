@@ -2,11 +2,15 @@
 
 This app streams tweets each 5 seconds and shows them on a map.
 
+This is a mini project for Fundamentals of Software Engineering course.
+
 ## Installation and running
 * Clone the repository
 ```
 git clone https://github.com/cetinerhalil/twitter-stream-map
 ```
+* Add your tokens to ```config.py```
+
 * Install the requirements
 ```
 pip install flask

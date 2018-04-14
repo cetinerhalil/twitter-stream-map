@@ -1,7 +1,7 @@
 from flask import Flask
 from flask import render_template, jsonify
 from info import data
-from stream_code import main
+from stream import main
 import threading
 
 
